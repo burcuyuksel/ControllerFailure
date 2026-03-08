@@ -1,0 +1,141 @@
+
+Probs - Normal: 0.848, Stress: 0.139, Fail: 0.013
+[00:49:57] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.941, Stress: 0.049, Fail: 0.010
+[00:49:58] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.973, Stress: 0.021, Fail: 0.007
+[00:50:00] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.965, Stress: 0.027, Fail: 0.008
+[00:50:01] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.961, Stress: 0.029, Fail: 0.010
+[00:50:03] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.965, Stress: 0.024, Fail: 0.011
+[00:50:04] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.971, Stress: 0.019, Fail: 0.009
+[00:50:06] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.974, Stress: 0.019, Fail: 0.007
+[00:50:07] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.972, Stress: 0.022, Fail: 0.006
+[00:50:09] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.965, Stress: 0.028, Fail: 0.007
+[00:50:10] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.956, Stress: 0.035, Fail: 0.008
+[00:50:12] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.955, Stress: 0.035, Fail: 0.010
+[00:50:13] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.959, Stress: 0.031, Fail: 0.010
+[00:50:15] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.963, Stress: 0.028, Fail: 0.009
+[00:50:16] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.966, Stress: 0.026, Fail: 0.008
+[00:50:18] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.964, Stress: 0.030, Fail: 0.006
+[00:50:19] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.957, Stress: 0.036, Fail: 0.007
+[00:50:21] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.954, Stress: 0.038, Fail: 0.007
+[00:50:22] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.954, Stress: 0.039, Fail: 0.007
+[00:50:24] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.956, Stress: 0.037, Fail: 0.007
+[00:50:25] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.955, Stress: 0.039, Fail: 0.007
+[00:50:27] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.946, Stress: 0.047, Fail: 0.007
+[00:50:28] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.936, Stress: 0.056, Fail: 0.008
+[00:50:30] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.935, Stress: 0.055, Fail: 0.009
+[00:50:31] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.943, Stress: 0.048, Fail: 0.009
+[00:50:33] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.947, Stress: 0.045, Fail: 0.007
+[00:50:34] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.936, Stress: 0.057, Fail: 0.008
+[00:50:36] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.928, Stress: 0.063, Fail: 0.009
+[00:50:37] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.926, Stress: 0.065, Fail: 0.008
+[00:50:39] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.886, Stress: 0.105, Fail: 0.009
+[00:50:40] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.677, Stress: 0.309, Fail: 0.014
+[00:50:42] Raw Pred: NORMAL | Window: [N:3 S:0 F:0]
+Probs - Normal: 0.168, Stress: 0.811, Fail: 0.021
+[00:50:45] Raw Pred: STRESS | Window: [N:2 S:1 F:0]
+Probs - Normal: 0.028, Stress: 0.935, Fail: 0.037
+[00:50:46] Raw Pred: STRESS | Window: [N:1 S:2 F:0]
+>>> STRESS DETECTED! System load is high. <<<
+100%|███████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00,  2.76it/s]
+
+  ── XAI: [Stress] kararının nedenleri ────────
+  ▼ heap_mb                -0.0045
+  ▼ cpu_usage              +0.0000
+  ▼ memory_usage           +0.0000
+  ▼ heap_growth_bps        +0.0000
+  ▼ proc_cpu_pct           +0.0000
+  ▼ rest_rtt_ms            +0.0000
+  ───────────────────────────────────────────────
+Probs - Normal: 0.019, Stress: 0.859, Fail: 0.122
+[00:50:50] Raw Pred: STRESS | Window: [N:0 S:1 F:0]
+Probs - Normal: 0.027, Stress: 0.793, Fail: 0.180
+[00:50:54] Raw Pred: STRESS | Window: [N:0 S:2 F:0]
+>>> STRESS DETECTED! System load is high. <<<
+100%|███████████████████████████████████████████████████████████████████████| 1/1 [00:02<00:00,  2.19s/it]
+
+  ── XAI: [Stress] kararının nedenleri ────────
+  ▼ rest_rtt_ms            -0.0276  █████
+  ▲ heap_mb                +0.0253  █████
+  ▼ cpu_usage              +0.0000
+  ▼ memory_usage           +0.0000
+  ▼ heap_growth_bps        +0.0000
+  ▼ proc_cpu_pct           +0.0000
+  ───────────────────────────────────────────────
+Probs - Normal: 0.033, Stress: 0.789, Fail: 0.177
+[00:51:02] Raw Pred: STRESS | Window: [N:0 S:1 F:0]
+Probs - Normal: 0.054, Stress: 0.603, Fail: 0.343
+[00:51:06] Raw Pred: STRESS | Window: [N:0 S:2 F:0]
+>>> STRESS DETECTED! System load is high. <<<
+100%|███████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00,  2.08it/s]
+
+  ── XAI: [Stress] kararının nedenleri ────────
+  ▼ cpu_usage              +0.0000
+  ▼ memory_usage           +0.0000
+  ▼ heap_mb                +0.0000
+  ▼ heap_growth_bps        +0.0000
+  ▼ proc_cpu_pct           +0.0000
+  ▼ rest_rtt_ms            +0.0000
+  ───────────────────────────────────────────────
+Probs - Normal: 0.062, Stress: 0.451, Fail: 0.488
+[00:51:10] Raw Pred: FAIL | Window: [N:0 S:0 F:1]
+Probs - Normal: 0.010, Stress: 0.007, Fail: 0.983
+[00:51:11] Raw Pred: FAIL | Window: [N:0 S:0 F:2]
+>>> FAILURE DETECTED! Initiating failover... <<<
+100%|███████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00,  5.87it/s]
+
+  ── XAI: [Fail] kararının nedenleri ────────
+  ▲ rest_rtt_ms            +0.0193  ███
+  ▼ heap_growth_bps        -0.0083  █
+  ▼ proc_cpu_pct           -0.0070  █
+  ▼ cpu_usage              +0.0000
+  ▼ memory_usage           +0.0000
+  ▼ heap_mb                +0.0000
+  ───────────────────────────────────────────────
+Probs - Normal: 0.001, Stress: 0.000, Fail: 0.998
+[00:51:12] Raw Pred: FAIL | Window: [N:0 S:0 F:1]
+Probs - Normal: 0.001, Stress: 0.000, Fail: 0.999
+[00:51:13] Raw Pred: FAIL | Window: [N:0 S:0 F:2]
+>>> FAILURE DETECTED! Initiating failover... <<<
+100%|███████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00,  6.20it/s]
+
+  ── XAI: [Fail] kararının nedenleri ────────
+  ▲ rest_rtt_ms            +0.0421  ████████
+  ▼ heap_growth_bps        -0.0300  ██████
+  ▼ cpu_usage              +0.0000
+  ▼ memory_usage           +0.0000
+  ▼ heap_mb                +0.0000
+  ▼ proc_cpu_pct           +0.0000
+  ───────────────────────────────────────────────
+^C
+Monitoring stopped by user.
+(venv) root@vbox:/home/vboxuser/lstm/codes#

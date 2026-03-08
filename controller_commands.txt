@@ -1,0 +1,14 @@
+-- log bastırma:
+    tail -f data/log/karaf.log
+
+-- bin/configure_cluster.sh 1 192.168.56.104 192.168.56.116 192.168.56.117
+-- JAVA_MAX_MEM=4G JAVA_MAX_PERM_MEM=512m ./bin/karaf
+-- curl -u admin:admin http://192.168.56.104:8181/jolokia/list
+-- curl -u admin:admin http://192.168.56.104:8181/jolokia/read/org.opendaylight.controller:type=DistributedOperationalDatastore,Category=ShardManager,name=shard-manager-operational
+
+curl -u admin:admin -X POST -H "Content-Type: application/json" -d '{"input":{"member-voting-state": [{"member-name": "member-3", "voting":false}]}}' 
+http://192.168.56.109:8181/restconf/operations/cluster-admin:change-member-voting-for-all-shards
+
+curl -u admin:admin http://192.168.56.104:8181/jolokia/read/org.opendaylight.controller:Category=Shards,name=member-1-shard-default-operational,type=DistributedOperationalDatastore
+
+curl -u admin:admin -X GET http://192.168.56.109:8181/restconf/operational/entity-ownership-service:entity-ownership/odl-controller-cluster
